@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ODOM Tech app and favicon mark</title>
+  <desc id="desc">Strengthened connected open hexagonal mesh mark for small app-icon and favicon use.</desc>
+  <g fill="none" stroke="#0A0A0A" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 108V76L128 24l88 52v32" stroke-width="20"/>
+    <path d="M40 148v32l88 52 88-52v-32" stroke-width="20"/>
+    <path d="M128 68l50 29v62l-50 29-50-29V97l50-29Z" stroke-width="12"/>
+    <path d="M128 24v44M216 76l-38 21M216 180l-38-21M128 232v-44M40 180l38-21M40 76l38 21" stroke-width="12"/>
+  </g>
+</svg>
